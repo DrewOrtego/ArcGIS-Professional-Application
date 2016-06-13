@@ -31,14 +31,14 @@ This repository contains projects which demonstrate the follow:
 
    ![UI](Folder-Connections-Manager/Images/FolderConnect.png)
    3. Click the "Save Connections" button in the "Folder Connection Manager" 
-   Add-In pane. The current Folder /// Connection's will be saved as a list 
+   Add-In pane. The current Folder Connection's will be saved as a list 
    in the text file.  
    4. Remove the Folder Connection you just created by right-clicking on it in 
    the Project window and selecting "Remove".
 
    ![UI](Folder-Connections-Manager/Images/RemoveFolder.png)  
    5. Load your saved Folder Connection by clicking the "Load Connection" button 
-   in the "Folder Connection Manager" /// Add-In pane. Select the text file you 
+   in the "Folder Connection Manager" Add-In pane. Select the text file you 
    saved in step three.  
    6. Verify that your Folder Connection has returned to the Project.  
     
