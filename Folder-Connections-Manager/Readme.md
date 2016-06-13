@@ -8,7 +8,7 @@ Add-In's which allows saving and loading folder connections into any project.
 
 **Usage:**
 
-   Can be installed using Visual Studio to run the .sln project.
+    Can be installed using Visual Studio to run the .sln project.
    
 **Purpose:**
 
@@ -30,13 +30,15 @@ Add-In's which allows saving and loading folder connections into any project.
     2. Create a new Folder Connection in the Project window.
 
    ![UI](Images/FolderConnect.png)
+   
     3. Click the "Save Connections" button in the "Folder Connection Manager" 
     Add-In pane. The current Folder Connection's will be saved as a list 
     in the text file.  
     4. Remove the Folder Connection you just created by right-clicking on it in 
     the Project window and selecting "Remove".
 
-   ![UI](Images/RemoveFolder.png)  
+   ![UI](Images/RemoveFolder.png)
+   
     5. Load your saved Folder Connection by clicking the "Load Connection" button 
     in the "Folder Connection Manager" Add-In pane. Select the text file you 
     saved in step three.  
