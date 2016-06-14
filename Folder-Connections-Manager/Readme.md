@@ -1,4 +1,4 @@
-# ArcGIS-Professional-Application/Folder-Connections-Manager
+# Folder-Connections-Manager
 Add-In's which allows saving and loading folder connections into any project.
 
 **Demonstrates**
